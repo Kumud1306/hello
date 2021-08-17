@@ -1,0 +1,2 @@
+hi kumud 
+this is a static file.
